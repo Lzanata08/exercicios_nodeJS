@@ -1,3 +1,7 @@
+Atividades - Módulo 01
+
+Lista de exerciocios nodeJS
+
 1. Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar
 utilizando uma estrutura de controle if.
 2. Crie um programa que classifica a idade de uma pessoa em categorias (criança,
